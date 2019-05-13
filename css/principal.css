@@ -1,0 +1,28 @@
+body,p {
+    font-family: 'Karma', sans-serif;
+}
+
+h3, h1, h2, h4, h5{
+    font-family: 'Raleway', serif;
+}
+
+
+
+.titulo{
+    display:inline-block;
+    position:relative;
+    font-size:37px;
+    font-weight:700;
+    color:#D57631;
+    line-height:40px;
+    margin-top:10px;
+}
+
+.titulo p{
+    text-align:left;
+    font-family: 'Raleway', serif
+}
+
+.links{
+    color: #FFFFFF;
+}

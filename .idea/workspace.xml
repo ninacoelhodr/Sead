@@ -1,7 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="756ec948-ff44-4495-808e-61ace1ea3d6c" name="Default Changelist" comment="" />
+    <list default="true" id="756ec948-ff44-4495-808e-61ace1ea3d6c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/css/main4.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/main5.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagens/bio-male4.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagens/bio-male5.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagens/bio4.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagens/bio5.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagens/icone_aspas4.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagens/icone_aspas5.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagens/icone_aspas_v044.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagens/icone_aspas_v045.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagens/momento-cultural-1-eixo-14.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagens/momento-cultural-1-eixo-15.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagens/para-pensar-eixo-14.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagens/para-pensar-eixo-15.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagens/titulo-momento-cultural4.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagens/titulo-momento-cultural5.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagens/titulo-para-pensar4.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imagens/titulo-para-pensar5.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pagina-04.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pagina-05.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/principal.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/principal.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagens/bio-male.svg" beforeDir="false" afterPath="$PROJECT_DIR$/imagens/bio-male.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagens/bio.svg" beforeDir="false" afterPath="$PROJECT_DIR$/imagens/bio.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagens/icone_aspas.svg" beforeDir="false" afterPath="$PROJECT_DIR$/imagens/icone_aspas.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagens/icone_aspas_v04.svg" beforeDir="false" afterPath="$PROJECT_DIR$/imagens/icone_aspas_v04.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagens/momento-cultural-1-eixo-1.svg" beforeDir="false" afterPath="$PROJECT_DIR$/imagens/momento-cultural-1-eixo-1.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagens/para-pensar-eixo-1.svg" beforeDir="false" afterPath="$PROJECT_DIR$/imagens/para-pensar-eixo-1.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagens/titulo-momento-cultural.svg" beforeDir="false" afterPath="$PROJECT_DIR$/imagens/titulo-momento-cultural.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagens/titulo-para-pensar.svg" beforeDir="false" afterPath="$PROJECT_DIR$/imagens/titulo-para-pensar.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pagina-01.html" beforeDir="false" afterPath="$PROJECT_DIR$/pagina-01.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pagina-02.html" beforeDir="false" afterPath="$PROJECT_DIR$/pagina-02.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pagina-03.html" beforeDir="false" afterPath="$PROJECT_DIR$/pagina-03.html" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -14,48 +50,25 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/imagens/momento-cultural-1-eixo-13.svg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/main.css">
+        <entry file="file://$PROJECT_DIR$/pagina-01.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="764">
-              <caret column="175857" selection-start-column="175857" selection-end-column="175883" />
+            <state relative-caret-position="85">
+              <caret line="5" column="72" lean-forward="true" selection-start-line="5" selection-start-column="72" selection-end-line="5" selection-end-column="72" />
+              <folding>
+                <element signature="n#div#13;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#29;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#29;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#29;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/imagens/para-pensar-eixo-13.svg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/principal.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/imagens/titulo-momento-cultural3.svg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/imagens/titulo-para-pensar3.svg">
-          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pagina-02.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="281">
-              <caret line="192" column="25" lean-forward="true" selection-start-line="192" selection-start-column="25" selection-end-line="192" selection-end-column="25" />
+              <caret line="219" column="46" selection-start-line="219" selection-start-column="46" selection-end-line="219" selection-end-column="46" />
               <folding>
                 <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#29;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -64,30 +77,55 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/main2.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="910">
-              <caret column="175874" selection-start-column="175874" selection-end-column="175874" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pagina-03.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="281">
+            <state relative-caret-position="2244">
               <caret line="132" column="94" selection-start-line="132" selection-start-column="91" selection-end-line="132" selection-end-column="94" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/main3.css">
+        <entry file="file://$PROJECT_DIR$/pagina-04.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="13786">
-              <caret column="175881" selection-start-column="175881" selection-end-column="175881" />
+            <state relative-caret-position="355">
+              <caret line="363" selection-start-line="363" selection-end-line="369" selection-end-column="14" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pagina-05.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="525">
+              <caret line="363" column="30" selection-start-line="363" selection-start-column="30" selection-end-line="363" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/imagens/momento-cultural-1-eixo-15.svg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/imagens/icone_aspas_v045.svg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/imagens/icone_aspas5.svg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/imagens/bio-male5.svg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/imagens/bio5.svg">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
     </leaf>
@@ -110,6 +148,8 @@
       <find>#D2D3D5</find>
       <find>destaque</find>
       <find>#90CFAF</find>
+      <find>#D37530</find>
+      <find>2</find>
       <find>img</find>
     </findStrings>
     <replaceStrings>
@@ -118,28 +158,20 @@
       <replace>#db8c51</replace>
       <replace>D57631</replace>
       <replace>#D2D3D5</replace>
+      <replace>#D96B30</replace>
+      <replace>#67B285</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pagina-06.html" />
-        <option value="$PROJECT_DIR$/pagina-00.html" />
-        <option value="$PROJECT_DIR$/imagens/para-pensar-eixo-1.svg" />
-        <option value="$PROJECT_DIR$/imagens/momento-cultural-4-eixo-1.svg" />
-        <option value="$PROJECT_DIR$/imagens/momento-cultural-3-eixo-1.svg" />
-        <option value="$PROJECT_DIR$/imagens/momento-cultural-2-eixo-1.svg" />
-        <option value="$PROJECT_DIR$/imagens/momento-cultural-1-eixo-1.svg" />
-        <option value="$PROJECT_DIR$/imagens/icone_aspas_v04.svg" />
-        <option value="$PROJECT_DIR$/imagens/icone_aspas.svg" />
         <option value="$PROJECT_DIR$/imagens/collab.svg" />
         <option value="$PROJECT_DIR$/imagens/bio-male.svg" />
         <option value="$PROJECT_DIR$/imagens/titulo-para-pensar.svg" />
         <option value="$PROJECT_DIR$/imagens/titulo-momento-cultural.svg" />
-        <option value="$PROJECT_DIR$/pagina-01.html" />
         <option value="$PROJECT_DIR$/imagens/bio-female.svg" />
         <option value="$PROJECT_DIR$/imagens/bio.svg" />
         <option value="$PROJECT_DIR$/imagens/bio2.svg" />
@@ -158,12 +190,35 @@
         <option value="$PROJECT_DIR$/imagens/para-pensar-eixo-13.svg" />
         <option value="$PROJECT_DIR$/imagens/titulo-momento-cultural3.svg" />
         <option value="$PROJECT_DIR$/imagens/titulo-para-pensar3.svg" />
-        <option value="$PROJECT_DIR$/pagina-02.html" />
         <option value="$PROJECT_DIR$/css/main.css" />
         <option value="$PROJECT_DIR$/css/principal.css" />
         <option value="$PROJECT_DIR$/css/main2.css" />
         <option value="$PROJECT_DIR$/css/main3.css" />
+        <option value="$PROJECT_DIR$/imagens/icone_aspas.svg" />
+        <option value="$PROJECT_DIR$/imagens/icone_aspas_v03.svg" />
+        <option value="$PROJECT_DIR$/pagina-01.html" />
+        <option value="$PROJECT_DIR$/css/main4.css" />
+        <option value="$PROJECT_DIR$/css/main5.css" />
+        <option value="$PROJECT_DIR$/imagens/bio4.svg" />
+        <option value="$PROJECT_DIR$/imagens/bio5.svg" />
+        <option value="$PROJECT_DIR$/imagens/bio-male4.svg" />
+        <option value="$PROJECT_DIR$/imagens/icone_aspas4.svg" />
+        <option value="$PROJECT_DIR$/imagens/icone_aspas_v044.svg" />
+        <option value="$PROJECT_DIR$/imagens/momento-cultural-1-eixo-14.svg" />
+        <option value="$PROJECT_DIR$/imagens/para-pensar-eixo-14.svg" />
+        <option value="$PROJECT_DIR$/imagens/titulo-momento-cultural4.svg" />
+        <option value="$PROJECT_DIR$/imagens/titulo-para-pensar4.svg" />
+        <option value="$PROJECT_DIR$/imagens/titulo-para-pensar5.svg" />
+        <option value="$PROJECT_DIR$/imagens/titulo-momento-cultural5.svg" />
+        <option value="$PROJECT_DIR$/imagens/para-pensar-eixo-15.svg" />
+        <option value="$PROJECT_DIR$/imagens/momento-cultural-1-eixo-15.svg" />
+        <option value="$PROJECT_DIR$/imagens/icone_aspas_v045.svg" />
+        <option value="$PROJECT_DIR$/imagens/icone_aspas5.svg" />
+        <option value="$PROJECT_DIR$/imagens/bio-male5.svg" />
+        <option value="$PROJECT_DIR$/pagina-02.html" />
         <option value="$PROJECT_DIR$/pagina-03.html" />
+        <option value="$PROJECT_DIR$/pagina-04.html" />
+        <option value="$PROJECT_DIR$/pagina-05.html" />
       </list>
     </option>
   </component>
@@ -205,16 +260,16 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Coursera/courseraProjeto" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\NUTE_2\Documents\Compacta\teste3\css" />
-      <recent name="C:\Users\NUTE_2\Documents\Compacta\teste3" />
       <recent name="C:\Users\NUTE_2\Documents\Compacta\teste3\imagens" />
+      <recent name="C:\Users\NUTE_2\Documents\Compacta\teste3" />
+      <recent name="C:\Users\NUTE_2\Documents\Compacta\teste3\css" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -245,16 +300,20 @@
       <workItem from="1553259392333" duration="2037000" />
       <workItem from="1557423962365" duration="6047000" />
       <workItem from="1557489578968" duration="2483000" />
+      <workItem from="1557764860397" duration="1715000" />
+      <workItem from="1557847471025" duration="2091000" />
+      <workItem from="1557852973530" duration="1129000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11441000" />
+    <option name="totallyTimeSpent" value="16376000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1264489" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14330874" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -277,75 +336,170 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/imagens/icone_aspas.svg">
+    <entry file="file://$PROJECT_DIR$/imagens/titulo-para-pensar2.svg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/imagens/libras-icon-black.svg">
+    <entry file="file://$PROJECT_DIR$/imagens/sprite-icones3.png" />
+    <entry file="file://$PROJECT_DIR$/imagens/momento-cultural-1-eixo-13.svg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/imagens/libras-icon-white.svg">
+    <entry file="file://$PROJECT_DIR$/imagens/para-pensar-eixo-13.svg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/imagens/logo.svg">
+    <entry file="file://$PROJECT_DIR$/css/principal.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imagens/titulo-momento-cultural3.svg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/imagens/logo2.svg">
+    <entry file="file://$PROJECT_DIR$/imagens/titulo-para-pensar3.svg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/imagens/logo-pdf.svg">
+    <entry file="file://$PROJECT_DIR$/imagens/icone_aspas_v042.svg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/imagens/mockup2.png">
+    <entry file="file://$PROJECT_DIR$/imagens/icone_aspas_v043.svg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/imagens/momento-cultural-2-eixo-1.svg">
+    <entry file="file://$PROJECT_DIR$/imagens/momento-cultural-1-eixo-12.svg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/imagens/momento-cultural-3-eixo-1.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/imagens/orientacoes-print.png">
+    <entry file="file://$PROJECT_DIR$/imagens/bio-male2.svg">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/imagens/para-pensar-eixo-1.svg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/imagens/placeholder.png">
+    <entry file="file://$PROJECT_DIR$/imagens/bio-male3.svg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/imagens/placeholder_edge.png">
+    <entry file="file://$PROJECT_DIR$/css/main2.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2975">
+          <caret column="175874" selection-start-column="175874" selection-end-column="175874" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main3.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14688">
+          <caret column="175881" selection-start-column="175881" selection-end-column="175881" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret column="129594" selection-start-column="129587" selection-end-column="129594" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main4.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13786">
+          <caret column="175881" selection-start-column="175881" selection-end-column="175881" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main5.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13786">
+          <caret column="175881" selection-start-column="175881" selection-end-column="175881" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imagens/bio.svg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/imagens/play-icon-black.svg">
+    <entry file="file://$PROJECT_DIR$/imagens/bio2.svg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/imagens/sprite-icones.png">
+    <entry file="file://$PROJECT_DIR$/imagens/bio3.svg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/imagens/titulo-para-pensar.svg">
+    <entry file="file://$PROJECT_DIR$/imagens/bio-male.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imagens/icone_aspas2.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imagens/icone_aspas3.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imagens/icone_aspas.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imagens/icone_aspas_v03.svg">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/imagens/momento-cultural-1-eixo-1.svg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/pagina-00.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1700">
-          <caret line="100" column="8" lean-forward="true" selection-start-line="88" selection-start-column="2" selection-end-line="100" selection-end-column="8" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/imagens/sprite-icones.png">
+      <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../Projeto/portal-aberta-hipermidias/eixo1/e01_m04/pagina-02.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="692">
-          <caret line="207" column="6" lean-forward="true" selection-start-line="187" selection-start-column="17" selection-end-line="207" selection-end-column="6" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/imagens/titulo-momento-cultural.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imagens/bio4.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imagens/bio-male4.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imagens/icone_aspas4.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imagens/icone_aspas_v04.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imagens/icone_aspas_v044.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imagens/momento-cultural-1-eixo-14.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imagens/para-pensar-eixo-14.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imagens/titulo-momento-cultural4.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imagens/titulo-para-pensar4.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imagens/titulo-para-pensar5.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imagens/titulo-momento-cultural5.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imagens/para-pensar-eixo-15.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imagens/momento-cultural-1-eixo-15.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imagens/icone_aspas_v045.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imagens/icone_aspas5.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imagens/bio-male5.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imagens/bio5.svg">
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/pagina-01.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="51" selection-start-line="21" selection-start-column="51" selection-end-line="21" selection-end-column="51" />
+        <state relative-caret-position="85">
+          <caret line="5" column="72" lean-forward="true" selection-start-line="5" selection-start-column="72" selection-end-line="5" selection-end-column="72" />
           <folding>
             <element signature="n#div#13;n#body#0;n#html#0;n#!!top" />
             <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#29;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -355,123 +509,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/imagens/bio-female.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/imagens/bio.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/imagens/bio-male.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/imagens/icone_aspas_v032.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/imagens/icone_aspas_v033.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/imagens/bio2.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/imagens/bio-male2.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/imagens/icone_aspas2.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/imagens/icone_aspas_v04.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/imagens/icone_aspas_v042.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/imagens/momento-cultural-1-eixo-12.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/imagens/para-pensar-eixo-12.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/imagens/sprite-icones2.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/imagens/titulo-momento-cultural2.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/imagens/titulo-para-pensar2.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/imagens/bio3.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/imagens/bio-male3.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/imagens/icone_aspas3.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/imagens/icone_aspas_v03.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/imagens/icone_aspas_v043.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/imagens/momento-cultural-1-eixo-13.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/imagens/sprite-icones3.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/imagens/para-pensar-eixo-13.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/imagens/titulo-momento-cultural3.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/imagens/titulo-para-pensar3.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/pagina-02.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="281">
-          <caret line="192" column="25" lean-forward="true" selection-start-line="192" selection-start-column="25" selection-end-line="192" selection-end-column="25" />
+          <caret line="219" column="46" selection-start-line="219" selection-start-column="46" selection-end-line="219" selection-end-column="46" />
           <folding>
             <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#29;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="764">
-          <caret column="175857" selection-start-column="175857" selection-end-column="175883" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/principal.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/main2.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="910">
-          <caret column="175874" selection-start-column="175874" selection-end-column="175874" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/main3.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="13786">
-          <caret column="175881" selection-start-column="175881" selection-end-column="175881" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pagina-03.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="281">
+        <state relative-caret-position="2244">
           <caret line="132" column="94" selection-start-line="132" selection-start-column="91" selection-end-line="132" selection-end-column="94" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pagina-04.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="363" selection-start-line="363" selection-end-line="369" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pagina-05.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="363" column="30" selection-start-line="363" selection-start-column="30" selection-end-line="363" selection-end-column="30" />
         </state>
       </provider>
     </entry>

@@ -56,6 +56,9 @@ h3, h1, h2, h4, h5{
 .saibamais-modal .modal-body{
     padding:10px 30px;
 }
+.saibamais-modal .modal-body p{
+    font-family: 'Raleway', serif;
+}
 .saibamais-modal h2,.saibamais-modal h3{
     font-weight:bold;
     color:#797B7D;
@@ -88,10 +91,11 @@ h3, h1, h2, h4, h5{
     border-radius:100px;
     border:5px solid white;
     position:absolute;
-    top:90px;
+    top:113px;
     left:-50px;
     overflow:hidden
 }
 .saibamais-icon{
     background:#67B285 url('../imagens/sprite-icones.png') 0 -90px
 }
+

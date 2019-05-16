@@ -2,41 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="756ec948-ff44-4495-808e-61ace1ea3d6c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/css/main4.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/main5.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imagens/bio-male4.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imagens/bio-male5.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imagens/bio4.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imagens/bio5.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imagens/icone_aspas4.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imagens/icone_aspas5.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imagens/icone_aspas_v044.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imagens/icone_aspas_v045.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imagens/momento-cultural-1-eixo-14.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imagens/momento-cultural-1-eixo-15.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imagens/para-pensar-eixo-14.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imagens/para-pensar-eixo-15.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imagens/titulo-momento-cultural4.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imagens/titulo-momento-cultural5.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imagens/titulo-para-pensar4.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imagens/titulo-para-pensar5.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pagina-04.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pagina-05.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/principal1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pagina-02-extra.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pagina-04-extra.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/principal.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/principal.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagens/bio-male.svg" beforeDir="false" afterPath="$PROJECT_DIR$/imagens/bio-male.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagens/bio.svg" beforeDir="false" afterPath="$PROJECT_DIR$/imagens/bio.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagens/icone_aspas.svg" beforeDir="false" afterPath="$PROJECT_DIR$/imagens/icone_aspas.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagens/icone_aspas_v04.svg" beforeDir="false" afterPath="$PROJECT_DIR$/imagens/icone_aspas_v04.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagens/momento-cultural-1-eixo-1.svg" beforeDir="false" afterPath="$PROJECT_DIR$/imagens/momento-cultural-1-eixo-1.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagens/para-pensar-eixo-1.svg" beforeDir="false" afterPath="$PROJECT_DIR$/imagens/para-pensar-eixo-1.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagens/titulo-momento-cultural.svg" beforeDir="false" afterPath="$PROJECT_DIR$/imagens/titulo-momento-cultural.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagens/titulo-para-pensar.svg" beforeDir="false" afterPath="$PROJECT_DIR$/imagens/titulo-para-pensar.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pagina-01.html" beforeDir="false" afterPath="$PROJECT_DIR$/pagina-01.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pagina-02.html" beforeDir="false" afterPath="$PROJECT_DIR$/pagina-02.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pagina-03.html" beforeDir="false" afterPath="$PROJECT_DIR$/pagina-03.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -50,16 +21,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pagina-01.html">
+        <entry file="file://$PROJECT_DIR$/pagina-02-extra.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="72" lean-forward="true" selection-start-line="5" selection-start-column="72" selection-end-line="5" selection-end-column="72" />
-              <folding>
-                <element signature="n#div#13;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#29;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#29;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#29;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="102">
+              <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -67,9 +32,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pagina-02.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="281">
-              <caret line="219" column="46" selection-start-line="219" selection-start-column="46" selection-end-line="219" selection-end-column="46" />
+            <state relative-caret-position="321">
+              <caret line="359" lean-forward="true" selection-start-line="359" selection-end-line="359" />
               <folding>
+                <element signature="e#26570#26576#1" expanded="true" />
+                <element signature="e#26726#26733#1" expanded="true" />
                 <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#29;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
@@ -77,35 +44,39 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pagina-03.html">
+        <entry file="file://$PROJECT_DIR$/pagina-04-extra.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2244">
-              <caret line="132" column="94" selection-start-line="132" selection-start-column="91" selection-end-line="132" selection-end-column="94" />
+            <state relative-caret-position="374">
+              <caret line="22" column="56" lean-forward="true" selection-start-line="22" selection-start-column="56" selection-end-line="22" selection-end-column="56" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pagina-04.html">
+        <entry file="file://$PROJECT_DIR$/css/main4.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="355">
-              <caret line="363" selection-start-line="363" selection-end-line="369" selection-end-column="14" />
+            <state relative-caret-position="366">
+              <caret column="138166" lean-forward="true" selection-start-column="137930" selection-end-column="138166" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/principal.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1275">
+              <caret line="75" column="23" lean-forward="true" selection-start-line="75" selection-start-column="23" selection-end-line="75" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pagina-05.html">
+        <entry file="file://$PROJECT_DIR$/css/principal1.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="363" column="30" selection-start-line="363" selection-start-column="30" selection-end-line="363" selection-end-column="30" />
+            <state relative-caret-position="740">
+              <caret line="95" column="22" selection-start-line="95" selection-start-column="22" selection-end-line="95" selection-end-column="22" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/imagens/momento-cultural-1-eixo-15.svg">
-          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -151,6 +122,10 @@
       <find>#D37530</find>
       <find>2</find>
       <find>img</find>
+      <find>biografia</find>
+      <find>modal-he</find>
+      <find>pense-nisso-ico</find>
+      <find>pense</find>
     </findStrings>
     <replaceStrings>
       <replace>#D57631</replace>
@@ -160,6 +135,7 @@
       <replace>#D2D3D5</replace>
       <replace>#D96B30</replace>
       <replace>#67B285</replace>
+      <replace>saibamais</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -168,9 +144,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/imagens/collab.svg" />
-        <option value="$PROJECT_DIR$/imagens/bio-male.svg" />
-        <option value="$PROJECT_DIR$/imagens/titulo-para-pensar.svg" />
         <option value="$PROJECT_DIR$/imagens/titulo-momento-cultural.svg" />
         <option value="$PROJECT_DIR$/imagens/bio-female.svg" />
         <option value="$PROJECT_DIR$/imagens/bio.svg" />
@@ -191,12 +164,10 @@
         <option value="$PROJECT_DIR$/imagens/titulo-momento-cultural3.svg" />
         <option value="$PROJECT_DIR$/imagens/titulo-para-pensar3.svg" />
         <option value="$PROJECT_DIR$/css/main.css" />
-        <option value="$PROJECT_DIR$/css/principal.css" />
         <option value="$PROJECT_DIR$/css/main2.css" />
         <option value="$PROJECT_DIR$/css/main3.css" />
         <option value="$PROJECT_DIR$/imagens/icone_aspas.svg" />
         <option value="$PROJECT_DIR$/imagens/icone_aspas_v03.svg" />
-        <option value="$PROJECT_DIR$/pagina-01.html" />
         <option value="$PROJECT_DIR$/css/main4.css" />
         <option value="$PROJECT_DIR$/css/main5.css" />
         <option value="$PROJECT_DIR$/imagens/bio4.svg" />
@@ -215,18 +186,23 @@
         <option value="$PROJECT_DIR$/imagens/icone_aspas_v045.svg" />
         <option value="$PROJECT_DIR$/imagens/icone_aspas5.svg" />
         <option value="$PROJECT_DIR$/imagens/bio-male5.svg" />
-        <option value="$PROJECT_DIR$/pagina-02.html" />
         <option value="$PROJECT_DIR$/pagina-03.html" />
         <option value="$PROJECT_DIR$/pagina-04.html" />
         <option value="$PROJECT_DIR$/pagina-05.html" />
+        <option value="$PROJECT_DIR$/pagina-01.html" />
+        <option value="$PROJECT_DIR$/css/principal.css" />
+        <option value="$PROJECT_DIR$/pagina-02.html" />
+        <option value="$PROJECT_DIR$/pagina-02-extra.html" />
+        <option value="$PROJECT_DIR$/pagina-04-extra.html" />
+        <option value="$PROJECT_DIR$/css/principal1.css" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="396" />
-    <option name="y" value="120" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
     <option name="width" value="1936" />
-    <option name="height" value="1097" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -246,11 +222,6 @@
               <item name="teste3" type="462c0819:PsiDirectoryNode" />
               <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="teste3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="teste3" type="462c0819:PsiDirectoryNode" />
-              <item name="imagens" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -260,16 +231,16 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Projeto/portal-aberta-hipermidias/eixo2/E02_M01" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\NUTE_2\Documents\Compacta\teste3\imagens" />
-      <recent name="C:\Users\NUTE_2\Documents\Compacta\teste3" />
       <recent name="C:\Users\NUTE_2\Documents\Compacta\teste3\css" />
+      <recent name="C:\Users\NUTE_2\Documents\Compacta\teste3" />
+      <recent name="C:\Users\NUTE_2\Documents\Compacta\teste3\imagens" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -302,12 +273,14 @@
       <workItem from="1557489578968" duration="2483000" />
       <workItem from="1557764860397" duration="1715000" />
       <workItem from="1557847471025" duration="2091000" />
-      <workItem from="1557852973530" duration="1129000" />
+      <workItem from="1557852973530" duration="2669000" />
+      <workItem from="1557922334180" duration="1207000" />
+      <workItem from="1558019352207" duration="2015000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16376000" />
+    <option name="totallyTimeSpent" value="21138000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -336,22 +309,8 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/imagens/titulo-para-pensar2.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/imagens/sprite-icones3.png" />
-    <entry file="file://$PROJECT_DIR$/imagens/momento-cultural-1-eixo-13.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/imagens/para-pensar-eixo-13.svg">
       <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/principal.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/imagens/titulo-momento-cultural3.svg">
       <provider selected="true" editor-type-id="images" />
@@ -395,13 +354,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="271">
           <caret column="129594" selection-start-column="129587" selection-end-column="129594" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/main4.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="13786">
-          <caret column="175881" selection-start-column="175881" selection-end-column="175881" />
         </state>
       </provider>
     </entry>
@@ -481,6 +433,40 @@
     <entry file="file://$PROJECT_DIR$/imagens/para-pensar-eixo-15.svg">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/pagina-01.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="539">
+          <caret line="333" column="63" lean-forward="true" selection-start-line="333" selection-start-column="63" selection-end-line="333" selection-end-column="63" />
+          <folding>
+            <element signature="n#div#13;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#29;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#29;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#29;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pagina-03.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2244">
+          <caret line="132" column="94" selection-start-line="132" selection-start-column="91" selection-end-line="132" selection-end-column="94" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pagina-04.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6171">
+          <caret line="363" selection-start-line="363" selection-end-line="369" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pagina-05.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6171">
+          <caret line="363" column="30" selection-start-line="363" selection-start-column="30" selection-end-line="363" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/imagens/momento-cultural-1-eixo-15.svg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -496,47 +482,50 @@
     <entry file="file://$PROJECT_DIR$/imagens/bio5.svg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/pagina-01.html">
+    <entry file="file://$PROJECT_DIR$/css/main4.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="72" lean-forward="true" selection-start-line="5" selection-start-column="72" selection-end-line="5" selection-end-column="72" />
-          <folding>
-            <element signature="n#div#13;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#29;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#29;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#29;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="366">
+          <caret column="138166" lean-forward="true" selection-start-column="137930" selection-end-column="138166" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pagina-02.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="281">
-          <caret line="219" column="46" selection-start-line="219" selection-start-column="46" selection-end-line="219" selection-end-column="46" />
+        <state relative-caret-position="321">
+          <caret line="359" lean-forward="true" selection-start-line="359" selection-end-line="359" />
           <folding>
+            <element signature="e#26570#26576#1" expanded="true" />
+            <element signature="e#26726#26733#1" expanded="true" />
             <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#29;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pagina-03.html">
+    <entry file="file://$PROJECT_DIR$/pagina-02-extra.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2244">
-          <caret line="132" column="94" selection-start-line="132" selection-start-column="91" selection-end-line="132" selection-end-column="94" />
+        <state relative-caret-position="102">
+          <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pagina-04.html">
+    <entry file="file://$PROJECT_DIR$/css/principal.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="355">
-          <caret line="363" selection-start-line="363" selection-end-line="369" selection-end-column="14" />
+        <state relative-caret-position="1275">
+          <caret line="75" column="23" lean-forward="true" selection-start-line="75" selection-start-column="23" selection-end-line="75" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pagina-05.html">
+    <entry file="file://$PROJECT_DIR$/pagina-04-extra.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="363" column="30" selection-start-line="363" selection-start-column="30" selection-end-line="363" selection-end-column="30" />
+        <state relative-caret-position="374">
+          <caret line="22" column="56" lean-forward="true" selection-start-line="22" selection-start-column="56" selection-end-line="22" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/principal1.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="740">
+          <caret line="95" column="22" selection-start-line="95" selection-start-column="22" selection-end-line="95" selection-end-column="22" />
         </state>
       </provider>
     </entry>
